@@ -1,0 +1,14 @@
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\bin\Debug\net10.0\02-EstructurasDeControl.exe
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\bin\Debug\net10.0\02-EstructurasDeControl.deps.json
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\bin\Debug\net10.0\02-EstructurasDeControl.runtimeconfig.json
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\bin\Debug\net10.0\02-EstructurasDeControl.dll
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\bin\Debug\net10.0\02-EstructurasDeControl.pdb
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\obj\Debug\net10.0\02-EstructurasDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\obj\Debug\net10.0\02-EstructurasDeControl.AssemblyInfoInputs.cache
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\obj\Debug\net10.0\02-EstructurasDeControl.AssemblyInfo.cs
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\obj\Debug\net10.0\02-EstructurasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\obj\Debug\net10.0\02-EstructurasDeControl.dll
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\obj\Debug\net10.0\refint\02-EstructurasDeControl.dll
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\obj\Debug\net10.0\02-EstructurasDeControl.pdb
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\obj\Debug\net10.0\02-EstructurasDeControl.genruntimeconfig.cache
+C:\Users\lcuev\BackEndPracticas\02-EstructurasDeControl\obj\Debug\net10.0\ref\02-EstructurasDeControl.dll
